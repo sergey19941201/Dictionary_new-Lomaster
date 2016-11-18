@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/SearchEditText" />
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/linearLayout1">
+        <Button
+            android:text="Найти"
+            android:id="@+id/SearchBtn"
+            android:layout_width="187.5dp"
+            android:layout_height="match_parent" />
+        <Button
+            android:text="Отмена"
+            android:layout_width="187.5dp"
+            android:layout_height="match_parent"
+            android:id="@+id/otmenaBtn"
+            android:layout_marginLeft="3.5dp" />
+    </LinearLayout>
+</LinearLayout>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <TextView
+        android:text="Введите название на английском:"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView1" />
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/engEditText" />
+    <TextView
+        android:text="Введите перевод:"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView2" />
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/rusEditText" />
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="41.0dp"
+        android:id="@+id/linearLayout1">
+        <Button
+            android:text="Добавить карту"
+            android:layout_width="190.5dp"
+            android:layout_height="match_parent"
+            android:id="@+id/dobavitBn"
+            android:gravity="center"
+            android:layout_marginLeft="2dp" />
+        <Button
+            android:text="Отмена"
+            android:layout_width="190.5dp"
+            android:layout_height="match_parent"
+            android:id="@+id/zakritFragmentBn" />
+    </LinearLayout>
+</LinearLayout>

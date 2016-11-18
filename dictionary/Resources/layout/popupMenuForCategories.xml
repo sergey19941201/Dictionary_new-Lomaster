@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+  <item android:id="@+id/uchit"
+      android:title="Учить"/>
+  <item android:id="@+id/peremeshat"
+      android:title="Перемешать"/>
+  <item android:id="@+id/dobavitKartu"
+        android:title="Добавить карту"/>
+  <item android:id="@+id/pereimenovat"
+        android:title="Переименовать папку"/>
+  <item android:id="@+id/udalit"
+        android:title="Удалить папку"/>
+</menu>

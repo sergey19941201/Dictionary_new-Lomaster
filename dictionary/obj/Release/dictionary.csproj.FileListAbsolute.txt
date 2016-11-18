@@ -1,0 +1,267 @@
+C:\Users\User\Documents\Visual Studio 2015\Projects\dictionary\dictionary\bin\Release\dictionary.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\dictionary\dictionary\bin\Release\dictionary.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\dictionary\dictionary\bin\Release\dictionary.dictionary.apk
+C:\Users\User\Documents\Visual Studio 2015\Projects\dictionary\dictionary\bin\Release\dictionary.dictionary-Signed.apk
+C:\Users\User\Documents\Visual Studio 2015\Projects\dictionary\dictionary\obj\Release\dictionary.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\dictionary\dictionary\obj\Release\dictionary.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\dictionary\dictionary\obj\Release\android\bin\dictionary.dictionary.apk
+C:\Users\User\Documents\Visual Studio 2015\Projects\dictionary\dictionary\obj\Release\res\layout\dic.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\dictionary\dictionary\obj\Release\res\layout\neprglagoli.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\dictionary\dictionary\obj\Release\res\layout\arhiv.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\dictionary\dictionary\obj\Release\res\layout\nastroiki.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\dictionary\dictionary\obj\Release\res\layout\main.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\dictionary\dictionary\obj\Release\res\values\strings.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\dictionary\dictionary\obj\Release\res\drawable\icon.png
+C:\Users\User\Documents\Visual Studio 2015\Projects\dictionary\dictionary\obj\Release\res\drawable\bg.png
+C:\Users\User\Documents\Visual Studio 2015\Projects\dictionary\dictionary\obj\Release\res\drawable\slovari.png
+C:\Users\User\Documents\Visual Studio 2015\Projects\dictionary\dictionary\obj\Release\res\drawable\arhiv.png
+C:\Users\User\Documents\Visual Studio 2015\Projects\dictionary\dictionary\obj\Release\res\drawable\nastroiki.png
+C:\Users\User\Documents\Visual Studio 2015\Projects\dictionary\dictionary\obj\Release\res\drawable\nepravelnieglagoli.png
+C:\Users\User\Documents\Visual Studio 2015\Projects\dictionary\dictionary\obj\Release\res\drawable\arhivpodsv.png
+C:\Users\User\Documents\Visual Studio 2015\Projects\dictionary\dictionary\obj\Release\res\drawable\nastroikipodsv.png
+C:\Users\User\Documents\Visual Studio 2015\Projects\dictionary\dictionary\obj\Release\res\drawable\nepravelnieglagolipodsv.png
+C:\Users\User\Documents\Visual Studio 2015\Projects\dictionary\dictionary\obj\Release\res\drawable\slovaripodsv.png
+C:\Users\User\Documents\Visual Studio 2015\Projects\dictionary\dictionary\obj\Release\R.cs.flag
+C:\Users\User\Documents\Visual Studio 2015\Projects\dictionary\dictionary\obj\Release\uploadflags.txt
+C:\Users\User\Documents\Visual Studio 2015\Projects\dictionary\dictionary\bin\Release\dictionary.dll.mdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\dictionary\dictionary\obj\Release\dictionary.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\dictionary\dictionary\bin\Release\Java.Interop.dll.mdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\dictionary\dictionary\bin\Release\Mono.Android.dll.mdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\dictionary\dictionary\bin\Release\mscorlib.dll.mdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\dictionary\dictionary\bin\Release\System.ComponentModel.Composition.dll.mdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\dictionary\dictionary\bin\Release\System.Core.dll.mdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\dictionary\dictionary\bin\Release\System.dll.mdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\dictionary\dictionary\bin\Release\System.Net.Http.dll.mdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\dictionary\dictionary\bin\Release\System.Runtime.Serialization.dll.mdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\dictionary\dictionary\bin\Release\System.ServiceModel.Internals.dll.mdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\dictionary\dictionary\bin\Release\System.Xml.dll.mdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\dictionary\dictionary\bin\Release\System.Xml.Linq.dll.mdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\dictionary\dictionary\obj\Release\android\assets\dictionary.dll.mdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\dictionary\dictionary\obj\Release\android\assets\Java.Interop.dll.mdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\dictionary\dictionary\obj\Release\android\assets\Mono.Android.dll.mdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\dictionary\dictionary\obj\Release\android\assets\mscorlib.dll.mdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\dictionary\dictionary\obj\Release\android\assets\System.Core.dll.mdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\dictionary\dictionary\obj\Release\android\assets\System.dll.mdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\dictionary\dictionary\obj\Release\android\assets\System.Runtime.Serialization.dll.mdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\dictionary\dictionary\obj\Release\android\assets\System.ServiceModel.Internals.dll.mdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\dictionary\dictionary\obj\Release\android\assets\System.Xml.dll.mdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\dictionary\dictionary\obj\Release\res\drawable\ic_menu_black_24dp.png
+C:\Users\User\Documents\Visual Studio 2015\Projects\dictionary\dictionary\obj\Release\res\drawable\ic_search_black_24dp.png
+C:\Users\User\Documents\Visual Studio 2015\Projects\dictionary\dictionary\obj\Release\res\drawable\ic_add_black_24dp.png
+C:\Users\User\Documents\Visual Studio 2015\Projects\dictionary\dictionary\obj\Release\res\drawable\ic_check_box_black_24dp.png
+C:\Users\User\Documents\Visual Studio 2015\Projects\dictionary\dictionary\obj\Release\res\drawable\ic_check_box_outline_blank_black_24dp.png
+C:\Users\User\Documents\Visual Studio 2015\Projects\dictionary\dictionary\obj\Release\res\drawable\ic_folder_black_24dp.png
+C:\Users\User\Documents\Visual Studio 2015\Projects\dictionary\dictionary\obj\Release\res\drawable\vedrobutton.png
+C:\Users\User\Documents\Visual Studio 2015\Projects\dictionary\dictionary\obj\Release\dictionary.dll.mdb
+C:\Users\User\Documents\GitHub\Dictionary_new\dictionary\bin\Release\dictionary.dll
+C:\Users\User\Documents\GitHub\Dictionary_new\dictionary\bin\Release\dictionary.pdb
+C:\Users\User\Documents\GitHub\Dictionary_new\dictionary\bin\Release\dictionary.dictionary.apk
+C:\Users\User\Documents\GitHub\Dictionary_new\dictionary\bin\Release\dictionary.dictionary-Signed.apk
+C:\Users\User\Documents\GitHub\Dictionary_new\dictionary\bin\Release\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\Users\User\Documents\GitHub\Dictionary_new\dictionary\bin\Release\Xamarin.Android.Support.Design.dll
+C:\Users\User\Documents\GitHub\Dictionary_new\dictionary\bin\Release\Xamarin.Android.Support.v13.dll
+C:\Users\User\Documents\GitHub\Dictionary_new\dictionary\bin\Release\Xamarin.Android.Support.v4.dll
+C:\Users\User\Documents\GitHub\Dictionary_new\dictionary\bin\Release\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\User\Documents\GitHub\Dictionary_new\dictionary\bin\Release\Xamarin.Android.Support.v7.CardView.dll
+C:\Users\User\Documents\GitHub\Dictionary_new\dictionary\bin\Release\Xamarin.Android.Support.v7.RecyclerView.dll
+C:\Users\User\Documents\GitHub\Dictionary_new\dictionary\bin\Release\Xamarin.Android.Support.Vector.Drawable.dll
+C:\Users\User\Documents\GitHub\Dictionary_new\dictionary\obj\Release\dictionary.dll
+C:\Users\User\Documents\GitHub\Dictionary_new\dictionary\obj\Release\dictionary.pdb
+C:\Users\User\Documents\GitHub\Dictionary_new\dictionary\obj\Release\android\bin\dictionary.dictionary.apk
+C:\Users\User\Documents\GitHub\Dictionary_new\dictionary\obj\Release\res\layout\fragment.xml
+C:\Users\User\Documents\GitHub\Dictionary_new\dictionary\obj\Release\res\layout\fragmentlayout.xml
+C:\Users\User\Documents\GitHub\Dictionary_new\dictionary\obj\Release\res\layout\neprglagoli.xml
+C:\Users\User\Documents\GitHub\Dictionary_new\dictionary\obj\Release\res\layout\fraglayout.xml
+C:\Users\User\Documents\GitHub\Dictionary_new\dictionary\obj\Release\res\layout\searchfragment.xml
+C:\Users\User\Documents\GitHub\Dictionary_new\dictionary\obj\Release\res\layout\pereimencategfragment.xml
+C:\Users\User\Documents\GitHub\Dictionary_new\dictionary\obj\Release\res\layout\addcardfragment.xml
+C:\Users\User\Documents\GitHub\Dictionary_new\dictionary\obj\Release\res\layout\fragmentlayoutrus.xml
+C:\Users\User\Documents\GitHub\Dictionary_new\dictionary\obj\Release\res\layout\arhiv.xml
+C:\Users\User\Documents\GitHub\Dictionary_new\dictionary\obj\Release\res\layout\korzina.xml
+C:\Users\User\Documents\GitHub\Dictionary_new\dictionary\obj\Release\res\layout\listview_row.xml
+C:\Users\User\Documents\GitHub\Dictionary_new\dictionary\obj\Release\res\layout\archive_words.xml
+C:\Users\User\Documents\GitHub\Dictionary_new\dictionary\obj\Release\res\layout\archive_words_bg.xml
+C:\Users\User\Documents\GitHub\Dictionary_new\dictionary\obj\Release\res\layout\diclist.xml
+C:\Users\User\Documents\GitHub\Dictionary_new\dictionary\obj\Release\res\layout\diclist_row.xml
+C:\Users\User\Documents\GitHub\Dictionary_new\dictionary\obj\Release\res\layout\archive.xml
+C:\Users\User\Documents\GitHub\Dictionary_new\dictionary\obj\Release\res\layout\neprfragment.xml
+C:\Users\User\Documents\GitHub\Dictionary_new\dictionary\obj\Release\res\layout\ng.xml
+C:\Users\User\Documents\GitHub\Dictionary_new\dictionary\obj\Release\res\layout\addnewirrverb.xml
+C:\Users\User\Documents\GitHub\Dictionary_new\dictionary\obj\Release\res\layout\neprglagolirus.xml
+C:\Users\User\Documents\GitHub\Dictionary_new\dictionary\obj\Release\res\layout\neprfragmentrus.xml
+C:\Users\User\Documents\GitHub\Dictionary_new\dictionary\obj\Release\res\layout\irrverbsarchive.xml
+C:\Users\User\Documents\GitHub\Dictionary_new\dictionary\obj\Release\res\layout\irr_verbsarchive_row.xml
+C:\Users\User\Documents\GitHub\Dictionary_new\dictionary\obj\Release\res\layout\neprfragmentsystem.xml
+C:\Users\User\Documents\GitHub\Dictionary_new\dictionary\obj\Release\res\layout\neprfragmentrussystem.xml
+C:\Users\User\Documents\GitHub\Dictionary_new\dictionary\obj\Release\res\layout\neprglagolisystem.xml
+C:\Users\User\Documents\GitHub\Dictionary_new\dictionary\obj\Release\res\layout\neprglagolirussystem.xml
+C:\Users\User\Documents\GitHub\Dictionary_new\dictionary\obj\Release\res\layout\main.xml
+C:\Users\User\Documents\GitHub\Dictionary_new\dictionary\obj\Release\res\values\strings.xml
+C:\Users\User\Documents\GitHub\Dictionary_new\dictionary\obj\Release\res\drawable\bg.png
+C:\Users\User\Documents\GitHub\Dictionary_new\dictionary\obj\Release\res\drawable\slovari.png
+C:\Users\User\Documents\GitHub\Dictionary_new\dictionary\obj\Release\res\drawable\arhiv.png
+C:\Users\User\Documents\GitHub\Dictionary_new\dictionary\obj\Release\res\drawable\nastroiki.png
+C:\Users\User\Documents\GitHub\Dictionary_new\dictionary\obj\Release\res\drawable\nepravelnieglagoli.png
+C:\Users\User\Documents\GitHub\Dictionary_new\dictionary\obj\Release\res\drawable\arhivpodsv.png
+C:\Users\User\Documents\GitHub\Dictionary_new\dictionary\obj\Release\res\drawable\nastroikipodsv.png
+C:\Users\User\Documents\GitHub\Dictionary_new\dictionary\obj\Release\res\drawable\nepravelnieglagolipodsv.png
+C:\Users\User\Documents\GitHub\Dictionary_new\dictionary\obj\Release\res\drawable\slovaripodsv.png
+C:\Users\User\Documents\GitHub\Dictionary_new\dictionary\obj\Release\res\drawable\ic_menu_black_24dp.png
+C:\Users\User\Documents\GitHub\Dictionary_new\dictionary\obj\Release\res\drawable\ic_search_black_24dp.png
+C:\Users\User\Documents\GitHub\Dictionary_new\dictionary\obj\Release\res\drawable\ic_add_black_24dp.png
+C:\Users\User\Documents\GitHub\Dictionary_new\dictionary\obj\Release\res\drawable\ic_check_box_outline_blank_black_24dp.png
+C:\Users\User\Documents\GitHub\Dictionary_new\dictionary\obj\Release\res\drawable\vedrobutton.png
+C:\Users\User\Documents\GitHub\Dictionary_new\dictionary\obj\Release\res\drawable\orangebg.png
+C:\Users\User\Documents\GitHub\Dictionary_new\dictionary\obj\Release\res\drawable\ic_folder_black_24dp.png
+C:\Users\User\Documents\GitHub\Dictionary_new\dictionary\obj\Release\res\drawable\orangefolder.png
+C:\Users\User\Documents\GitHub\Dictionary_new\dictionary\obj\Release\res\drawable\pressedorangefolder.png
+C:\Users\User\Documents\GitHub\Dictionary_new\dictionary\obj\Release\res\drawable\ic_check_box_black_24dp.png
+C:\Users\User\Documents\GitHub\Dictionary_new\dictionary\obj\Release\res\layout\popupmenuforcategories.xml
+C:\Users\User\Documents\GitHub\Dictionary_new\dictionary\obj\Release\res\values\integers.xml
+C:\Users\User\Documents\GitHub\Dictionary_new\dictionary\obj\Release\res\drawable\reload.png
+C:\Users\User\Documents\GitHub\Dictionary_new\dictionary\obj\Release\res\drawable\archive_24.png
+C:\Users\User\Documents\GitHub\Dictionary_new\dictionary\obj\Release\res\layout\popupmenuarchive.xml
+C:\Users\User\Documents\GitHub\Dictionary_new\dictionary\obj\Release\res\drawable\blue_folder.png
+C:\Users\User\Documents\GitHub\Dictionary_new\dictionary\obj\Release\res\drawable\archivebg.png
+C:\Users\User\Documents\GitHub\Dictionary_new\dictionary\obj\Release\res\drawable\blue_light_bg.png
+C:\Users\User\Documents\GitHub\Dictionary_new\dictionary\obj\Release\res\layout\colors.xml
+C:\Users\User\Documents\GitHub\Dictionary_new\dictionary\obj\Release\res\values\styles.xml
+C:\Users\User\Documents\GitHub\Dictionary_new\dictionary\obj\Release\res\drawable\icon.png
+C:\Users\User\Documents\GitHub\Dictionary_new\dictionary\obj\Release\res\layout\popupmenufornglagoli.xml
+C:\Users\User\Documents\GitHub\Dictionary_new\dictionary\obj\Release\R.cs.flag
+C:\Users\User\Documents\GitHub\Dictionary_new\dictionary\obj\Release\uploadflags.txt
+C:\Users\User\Documents\GitHub\Dictionary_new\dictionary\bin\Release\dictionary.dll.mdb
+C:\Users\User\Documents\GitHub\Dictionary_new\dictionary\bin\Release\Java.Interop.dll.mdb
+C:\Users\User\Documents\GitHub\Dictionary_new\dictionary\bin\Release\Mono.Android.dll.mdb
+C:\Users\User\Documents\GitHub\Dictionary_new\dictionary\bin\Release\Mono.Data.Sqlite.dll.mdb
+C:\Users\User\Documents\GitHub\Dictionary_new\dictionary\bin\Release\Mono.Data.Tds.dll.mdb
+C:\Users\User\Documents\GitHub\Dictionary_new\dictionary\bin\Release\mscorlib.dll.mdb
+C:\Users\User\Documents\GitHub\Dictionary_new\dictionary\bin\Release\System.ComponentModel.Composition.dll.mdb
+C:\Users\User\Documents\GitHub\Dictionary_new\dictionary\bin\Release\System.Core.dll.mdb
+C:\Users\User\Documents\GitHub\Dictionary_new\dictionary\bin\Release\System.Data.dll.mdb
+C:\Users\User\Documents\GitHub\Dictionary_new\dictionary\bin\Release\System.dll.mdb
+C:\Users\User\Documents\GitHub\Dictionary_new\dictionary\bin\Release\System.Net.Http.dll.mdb
+C:\Users\User\Documents\GitHub\Dictionary_new\dictionary\bin\Release\System.Numerics.dll.mdb
+C:\Users\User\Documents\GitHub\Dictionary_new\dictionary\bin\Release\System.Runtime.Serialization.dll.mdb
+C:\Users\User\Documents\GitHub\Dictionary_new\dictionary\bin\Release\System.ServiceModel.Internals.dll.mdb
+C:\Users\User\Documents\GitHub\Dictionary_new\dictionary\bin\Release\System.Transactions.dll.mdb
+C:\Users\User\Documents\GitHub\Dictionary_new\dictionary\bin\Release\System.Xml.dll.mdb
+C:\Users\User\Documents\GitHub\Dictionary_new\dictionary\bin\Release\System.Xml.Linq.dll.mdb
+C:\Users\User\Documents\GitHub\Dictionary_new\dictionary\obj\Release\android\assets\dictionary.dll.mdb
+C:\Users\User\Documents\GitHub\Dictionary_new\dictionary\obj\Release\android\assets\Java.Interop.dll.mdb
+C:\Users\User\Documents\GitHub\Dictionary_new\dictionary\obj\Release\android\assets\Mono.Android.dll.mdb
+C:\Users\User\Documents\GitHub\Dictionary_new\dictionary\obj\Release\android\assets\mscorlib.dll.mdb
+C:\Users\User\Documents\GitHub\Dictionary_new\dictionary\obj\Release\android\assets\System.Core.dll.mdb
+C:\Users\User\Documents\GitHub\Dictionary_new\dictionary\obj\Release\android\assets\System.dll.mdb
+C:\Users\User\Documents\GitHub\Dictionary_new\dictionary\obj\Release\android\assets\System.Runtime.Serialization.dll.mdb
+C:\Users\User\Documents\GitHub\Dictionary_new\dictionary\obj\Release\android\assets\System.ServiceModel.Internals.dll.mdb
+C:\Users\User\Documents\GitHub\Dictionary_new\dictionary\obj\Release\android\assets\System.Xml.dll.mdb
+C:\Users\User\Documents\GitHub\Dictionary_new\dictionary\obj\Release\dictionary.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\GitHub\Dictionary_new\dictionary\obj\Release\dictionary.dll.mdb
+C:\Projects\Dictionary_new-Lomaster\dictionary\bin\Release\dictionary.dll
+C:\Projects\Dictionary_new-Lomaster\dictionary\bin\Release\dictionary.pdb
+C:\Projects\Dictionary_new-Lomaster\dictionary\bin\Release\dictionary.dictionary.apk
+C:\Projects\Dictionary_new-Lomaster\dictionary\bin\Release\dictionary.dictionary-Signed.apk
+C:\Projects\Dictionary_new-Lomaster\dictionary\bin\Release\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\Projects\Dictionary_new-Lomaster\dictionary\bin\Release\Xamarin.Android.Support.Compat.dll
+C:\Projects\Dictionary_new-Lomaster\dictionary\bin\Release\Xamarin.Android.Support.Core.UI.dll
+C:\Projects\Dictionary_new-Lomaster\dictionary\bin\Release\Xamarin.Android.Support.Core.Utils.dll
+C:\Projects\Dictionary_new-Lomaster\dictionary\bin\Release\Xamarin.Android.Support.Design.dll
+C:\Projects\Dictionary_new-Lomaster\dictionary\bin\Release\Xamarin.Android.Support.Fragment.dll
+C:\Projects\Dictionary_new-Lomaster\dictionary\bin\Release\Xamarin.Android.Support.Media.Compat.dll
+C:\Projects\Dictionary_new-Lomaster\dictionary\bin\Release\Xamarin.Android.Support.v13.dll
+C:\Projects\Dictionary_new-Lomaster\dictionary\bin\Release\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Projects\Dictionary_new-Lomaster\dictionary\bin\Release\Xamarin.Android.Support.v7.RecyclerView.dll
+C:\Projects\Dictionary_new-Lomaster\dictionary\bin\Release\Xamarin.Android.Support.Vector.Drawable.dll
+C:\Projects\Dictionary_new-Lomaster\dictionary\obj\Release\dictionary.dll
+C:\Projects\Dictionary_new-Lomaster\dictionary\obj\Release\dictionary.pdb
+C:\Projects\Dictionary_new-Lomaster\dictionary\obj\Release\android\bin\dictionary.dictionary.apk
+C:\Projects\Dictionary_new-Lomaster\dictionary\obj\Release\res\layout\fragment.xml
+C:\Projects\Dictionary_new-Lomaster\dictionary\obj\Release\res\layout\fragmentlayout.xml
+C:\Projects\Dictionary_new-Lomaster\dictionary\obj\Release\res\layout\neprglagoli.xml
+C:\Projects\Dictionary_new-Lomaster\dictionary\obj\Release\res\layout\fraglayout.xml
+C:\Projects\Dictionary_new-Lomaster\dictionary\obj\Release\res\layout\searchfragment.xml
+C:\Projects\Dictionary_new-Lomaster\dictionary\obj\Release\res\layout\pereimencategfragment.xml
+C:\Projects\Dictionary_new-Lomaster\dictionary\obj\Release\res\layout\addcardfragment.xml
+C:\Projects\Dictionary_new-Lomaster\dictionary\obj\Release\res\layout\fragmentlayoutrus.xml
+C:\Projects\Dictionary_new-Lomaster\dictionary\obj\Release\res\layout\arhiv.xml
+C:\Projects\Dictionary_new-Lomaster\dictionary\obj\Release\res\layout\korzina.xml
+C:\Projects\Dictionary_new-Lomaster\dictionary\obj\Release\res\layout\listview_row.xml
+C:\Projects\Dictionary_new-Lomaster\dictionary\obj\Release\res\layout\archive_words.xml
+C:\Projects\Dictionary_new-Lomaster\dictionary\obj\Release\res\layout\archive_words_bg.xml
+C:\Projects\Dictionary_new-Lomaster\dictionary\obj\Release\res\layout\diclist.xml
+C:\Projects\Dictionary_new-Lomaster\dictionary\obj\Release\res\layout\diclist_row.xml
+C:\Projects\Dictionary_new-Lomaster\dictionary\obj\Release\res\layout\archive.xml
+C:\Projects\Dictionary_new-Lomaster\dictionary\obj\Release\res\layout\neprfragment.xml
+C:\Projects\Dictionary_new-Lomaster\dictionary\obj\Release\res\layout\ng.xml
+C:\Projects\Dictionary_new-Lomaster\dictionary\obj\Release\res\layout\addnewirrverb.xml
+C:\Projects\Dictionary_new-Lomaster\dictionary\obj\Release\res\layout\neprglagolirus.xml
+C:\Projects\Dictionary_new-Lomaster\dictionary\obj\Release\res\layout\neprfragmentrus.xml
+C:\Projects\Dictionary_new-Lomaster\dictionary\obj\Release\res\layout\irrverbsarchive.xml
+C:\Projects\Dictionary_new-Lomaster\dictionary\obj\Release\res\layout\irr_verbsarchive_row.xml
+C:\Projects\Dictionary_new-Lomaster\dictionary\obj\Release\res\layout\neprfragmentsystem.xml
+C:\Projects\Dictionary_new-Lomaster\dictionary\obj\Release\res\layout\neprfragmentrussystem.xml
+C:\Projects\Dictionary_new-Lomaster\dictionary\obj\Release\res\layout\neprglagolisystem.xml
+C:\Projects\Dictionary_new-Lomaster\dictionary\obj\Release\res\layout\neprglagolirussystem.xml
+C:\Projects\Dictionary_new-Lomaster\dictionary\obj\Release\res\layout\main.xml
+C:\Projects\Dictionary_new-Lomaster\dictionary\obj\Release\res\values\strings.xml
+C:\Projects\Dictionary_new-Lomaster\dictionary\obj\Release\res\drawable\bg.png
+C:\Projects\Dictionary_new-Lomaster\dictionary\obj\Release\res\drawable\slovari.png
+C:\Projects\Dictionary_new-Lomaster\dictionary\obj\Release\res\drawable\arhiv.png
+C:\Projects\Dictionary_new-Lomaster\dictionary\obj\Release\res\drawable\nastroiki.png
+C:\Projects\Dictionary_new-Lomaster\dictionary\obj\Release\res\drawable\nepravelnieglagoli.png
+C:\Projects\Dictionary_new-Lomaster\dictionary\obj\Release\res\drawable\arhivpodsv.png
+C:\Projects\Dictionary_new-Lomaster\dictionary\obj\Release\res\drawable\nastroikipodsv.png
+C:\Projects\Dictionary_new-Lomaster\dictionary\obj\Release\res\drawable\nepravelnieglagolipodsv.png
+C:\Projects\Dictionary_new-Lomaster\dictionary\obj\Release\res\drawable\slovaripodsv.png
+C:\Projects\Dictionary_new-Lomaster\dictionary\obj\Release\res\drawable\ic_menu_black_24dp.png
+C:\Projects\Dictionary_new-Lomaster\dictionary\obj\Release\res\drawable\ic_search_black_24dp.png
+C:\Projects\Dictionary_new-Lomaster\dictionary\obj\Release\res\drawable\ic_add_black_24dp.png
+C:\Projects\Dictionary_new-Lomaster\dictionary\obj\Release\res\drawable\ic_check_box_outline_blank_black_24dp.png
+C:\Projects\Dictionary_new-Lomaster\dictionary\obj\Release\res\drawable\vedrobutton.png
+C:\Projects\Dictionary_new-Lomaster\dictionary\obj\Release\res\drawable\orangebg.png
+C:\Projects\Dictionary_new-Lomaster\dictionary\obj\Release\res\drawable\ic_folder_black_24dp.png
+C:\Projects\Dictionary_new-Lomaster\dictionary\obj\Release\res\drawable\orangefolder.png
+C:\Projects\Dictionary_new-Lomaster\dictionary\obj\Release\res\drawable\pressedorangefolder.png
+C:\Projects\Dictionary_new-Lomaster\dictionary\obj\Release\res\drawable\ic_check_box_black_24dp.png
+C:\Projects\Dictionary_new-Lomaster\dictionary\obj\Release\res\layout\popupmenuforcategories.xml
+C:\Projects\Dictionary_new-Lomaster\dictionary\obj\Release\res\values\integers.xml
+C:\Projects\Dictionary_new-Lomaster\dictionary\obj\Release\res\drawable\reload.png
+C:\Projects\Dictionary_new-Lomaster\dictionary\obj\Release\res\drawable\archive_24.png
+C:\Projects\Dictionary_new-Lomaster\dictionary\obj\Release\res\layout\popupmenuarchive.xml
+C:\Projects\Dictionary_new-Lomaster\dictionary\obj\Release\res\drawable\blue_folder.png
+C:\Projects\Dictionary_new-Lomaster\dictionary\obj\Release\res\drawable\archivebg.png
+C:\Projects\Dictionary_new-Lomaster\dictionary\obj\Release\res\drawable\blue_light_bg.png
+C:\Projects\Dictionary_new-Lomaster\dictionary\obj\Release\res\layout\colors.xml
+C:\Projects\Dictionary_new-Lomaster\dictionary\obj\Release\res\values\styles.xml
+C:\Projects\Dictionary_new-Lomaster\dictionary\obj\Release\res\drawable\icon.png
+C:\Projects\Dictionary_new-Lomaster\dictionary\obj\Release\res\layout\popupmenufornglagoli.xml
+C:\Projects\Dictionary_new-Lomaster\dictionary\obj\Release\R.cs.flag
+C:\Projects\Dictionary_new-Lomaster\dictionary\obj\Release\uploadflags.txt
+C:\Projects\Dictionary_new-Lomaster\dictionary\bin\Release\dictionary.dll.mdb
+C:\Projects\Dictionary_new-Lomaster\dictionary\bin\Release\Java.Interop.dll.mdb
+C:\Projects\Dictionary_new-Lomaster\dictionary\bin\Release\Mono.Android.dll.mdb
+C:\Projects\Dictionary_new-Lomaster\dictionary\bin\Release\Mono.Data.Sqlite.dll.mdb
+C:\Projects\Dictionary_new-Lomaster\dictionary\bin\Release\Mono.Data.Tds.dll.mdb
+C:\Projects\Dictionary_new-Lomaster\dictionary\bin\Release\mscorlib.dll.mdb
+C:\Projects\Dictionary_new-Lomaster\dictionary\bin\Release\System.ComponentModel.Composition.dll.mdb
+C:\Projects\Dictionary_new-Lomaster\dictionary\bin\Release\System.Core.dll.mdb
+C:\Projects\Dictionary_new-Lomaster\dictionary\bin\Release\System.Data.dll.mdb
+C:\Projects\Dictionary_new-Lomaster\dictionary\bin\Release\System.dll.mdb
+C:\Projects\Dictionary_new-Lomaster\dictionary\bin\Release\System.Net.Http.dll.mdb
+C:\Projects\Dictionary_new-Lomaster\dictionary\bin\Release\System.Numerics.dll.mdb
+C:\Projects\Dictionary_new-Lomaster\dictionary\bin\Release\System.Runtime.Serialization.dll.mdb
+C:\Projects\Dictionary_new-Lomaster\dictionary\bin\Release\System.ServiceModel.Internals.dll.mdb
+C:\Projects\Dictionary_new-Lomaster\dictionary\bin\Release\System.Transactions.dll.mdb
+C:\Projects\Dictionary_new-Lomaster\dictionary\bin\Release\System.Xml.dll.mdb
+C:\Projects\Dictionary_new-Lomaster\dictionary\bin\Release\System.Xml.Linq.dll.mdb
+C:\Projects\Dictionary_new-Lomaster\dictionary\obj\Release\android\assets\dictionary.dll.mdb
+C:\Projects\Dictionary_new-Lomaster\dictionary\obj\Release\android\assets\Java.Interop.dll.mdb
+C:\Projects\Dictionary_new-Lomaster\dictionary\obj\Release\android\assets\Mono.Android.dll.mdb
+C:\Projects\Dictionary_new-Lomaster\dictionary\obj\Release\android\assets\mscorlib.dll.mdb
+C:\Projects\Dictionary_new-Lomaster\dictionary\obj\Release\android\assets\System.Core.dll.mdb
+C:\Projects\Dictionary_new-Lomaster\dictionary\obj\Release\android\assets\System.dll.mdb
+C:\Projects\Dictionary_new-Lomaster\dictionary\obj\Release\android\assets\System.Runtime.Serialization.dll.mdb
+C:\Projects\Dictionary_new-Lomaster\dictionary\obj\Release\dictionary.csprojResolveAssemblyReference.cache
+C:\Projects\Dictionary_new-Lomaster\dictionary\obj\Release\dictionary.dll.mdb
+C:\Projects\Dictionary_new-Lomaster\dictionary\bin\Release\dictionary.dll.mdb
