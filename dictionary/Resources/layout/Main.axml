@@ -23,22 +23,22 @@
                 android:id="@+id/slovari"
                 android:background="@drawable/slovari"
                 android:layout_marginTop="39.5dp"
-                android:layout_marginLeft="118.5dp" />
+                android:layout_gravity="center" />
             <ImageButton
                 android:id="@+id/nepravelnieglagoli"
                 android:background="@drawable/nepravelnieglagoli"
                 android:foreground="@drawable/nepravelnieglagolipodsv"
                 android:layout_width="154.0dp"
                 android:layout_height="158.0dp"
-                android:layout_marginLeft="118.5dp"
-                android:layout_marginTop="7.0dp" />
+                android:layout_marginTop="7.0dp"
+                android:layout_gravity="center" />
             <ImageButton
                 android:id="@+id/arhiv"
                 android:background="@drawable/arhiv"
                 android:layout_width="154.0dp"
                 android:layout_height="158.0dp"
-                android:layout_marginLeft="118.5dp"
-                android:layout_marginTop="7.0dp" />
+                android:layout_marginTop="7.0dp"
+                android:layout_gravity="center" />
         </LinearLayout>
         <RelativeLayout
             android:layout_width="wrap_content"

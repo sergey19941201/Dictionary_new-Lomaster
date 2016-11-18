@@ -29,7 +29,7 @@ namespace dictionary.mCode
         {
             View rootView = inflater.Inflate(Resource.Layout.pereimenCategFragment, container, false);
 
-            this.Dialog.SetTitle("Введите новое название папки");
+            //this.Dialog.SetTitle("Введите новое название папки");
             
             pereimenovatCateg = rootView.FindViewById<Button>(Resource.Id.pereimenovatCateg);
             zakritFragment = rootView.FindViewById<Button>(Resource.Id.zakritFragment);

@@ -32,7 +32,7 @@ namespace dictionary.mCode
             NGActivity.mixIndicatorUSER = false;
 
             //Заглавие фрагмента:
-            this.Dialog.SetTitle("Добавление карты");
+            //this.Dialog.SetTitle("Добавление карты");
             //Кнопки переименовать и Закрыть фрагмент
             dobavitBn = rootView.FindViewById<Button>(Resource.Id.dobavitBn);
             zakritFragmentbn = rootView.FindViewById<Button>(Resource.Id.zakritFragmentBn);

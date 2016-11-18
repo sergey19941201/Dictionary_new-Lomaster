@@ -13,10 +13,10 @@
         android:layout_height="wrap_content"
         android:id="@+id/textView1"
         android:visibility="gone" />
-    <LinearLayout
+    <RelativeLayout
         android:orientation="horizontal"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
+        android:layout_height="77dp"
         android:id="@+id/linearLayout1">
         <ImageButton
             android:layout_width="72.0dp"
@@ -28,14 +28,14 @@
             android:background="@drawable/reload"
             android:layout_width="80dp"
             android:layout_height="80dp"
-            android:layout_marginLeft="83.0dp" />
+            android:layout_centerInParent="true" />
         <ImageButton
             android:layout_width="80dp"
             android:layout_height="80.0dp"
             android:id="@+id/deleteBn"
             android:background="@drawable/vedrobutton"
-            android:layout_marginLeft="83.0dp" />
-    </LinearLayout>
+            android:layout_alignParentRight="true" />
+    </RelativeLayout>
     <TextView
         android:textAppearance="?android:attr/textAppearanceLarge"
         android:layout_width="match_parent"

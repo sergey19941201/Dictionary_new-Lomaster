@@ -185,7 +185,6 @@ C:\Projects\Dictionary_new-Lomaster\dictionary\obj\Release\res\layout\pereimenca
 C:\Projects\Dictionary_new-Lomaster\dictionary\obj\Release\res\layout\addcardfragment.xml
 C:\Projects\Dictionary_new-Lomaster\dictionary\obj\Release\res\layout\fragmentlayoutrus.xml
 C:\Projects\Dictionary_new-Lomaster\dictionary\obj\Release\res\layout\arhiv.xml
-C:\Projects\Dictionary_new-Lomaster\dictionary\obj\Release\res\layout\korzina.xml
 C:\Projects\Dictionary_new-Lomaster\dictionary\obj\Release\res\layout\listview_row.xml
 C:\Projects\Dictionary_new-Lomaster\dictionary\obj\Release\res\layout\archive_words.xml
 C:\Projects\Dictionary_new-Lomaster\dictionary\obj\Release\res\layout\archive_words_bg.xml
@@ -236,6 +235,7 @@ C:\Projects\Dictionary_new-Lomaster\dictionary\obj\Release\res\layout\colors.xml
 C:\Projects\Dictionary_new-Lomaster\dictionary\obj\Release\res\values\styles.xml
 C:\Projects\Dictionary_new-Lomaster\dictionary\obj\Release\res\drawable\icon.png
 C:\Projects\Dictionary_new-Lomaster\dictionary\obj\Release\res\layout\popupmenufornglagoli.xml
+C:\Projects\Dictionary_new-Lomaster\dictionary\obj\Release\res\layout\popupmenufornglagolisystem.xml
 C:\Projects\Dictionary_new-Lomaster\dictionary\obj\Release\R.cs.flag
 C:\Projects\Dictionary_new-Lomaster\dictionary\obj\Release\uploadflags.txt
 C:\Projects\Dictionary_new-Lomaster\dictionary\bin\Release\dictionary.dll.mdb
@@ -262,6 +262,5 @@ C:\Projects\Dictionary_new-Lomaster\dictionary\obj\Release\android\assets\mscorl
 C:\Projects\Dictionary_new-Lomaster\dictionary\obj\Release\android\assets\System.Core.dll.mdb
 C:\Projects\Dictionary_new-Lomaster\dictionary\obj\Release\android\assets\System.dll.mdb
 C:\Projects\Dictionary_new-Lomaster\dictionary\obj\Release\android\assets\System.Runtime.Serialization.dll.mdb
-C:\Projects\Dictionary_new-Lomaster\dictionary\obj\Release\dictionary.csprojResolveAssemblyReference.cache
 C:\Projects\Dictionary_new-Lomaster\dictionary\obj\Release\dictionary.dll.mdb
 C:\Projects\Dictionary_new-Lomaster\dictionary\bin\Release\dictionary.dll.mdb

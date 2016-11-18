@@ -43,9 +43,9 @@ namespace dictionary
 
         private void NGActivity_Click1(object sender, EventArgs e)
         {
-            PopupMenu menumuz = new PopupMenu(this, FindViewById<Button>(Resource.Id.polzovNeprGl_BN));
+            PopupMenu menumuz = new PopupMenu(this, FindViewById<Button>(Resource.Id.systemnieNeprGl_BN));
 
-            menumuz.Inflate(Resource.Layout.popupMenuForNGlagoli);
+            menumuz.Inflate(Resource.Layout.popupMenuForNGlagoliSystem);
 
             menumuz.MenuItemClick += (s1, arg1) =>
             {

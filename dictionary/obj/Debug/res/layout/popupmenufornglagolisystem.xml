@@ -1,0 +1,1 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"><item android:id="@+id/uchit" android:title="Учить" /><item android:id="@+id/peremeshat" android:title="Перемешать" /></menu>

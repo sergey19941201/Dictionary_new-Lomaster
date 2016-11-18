@@ -16,7 +16,7 @@ using Android.Content.PM;
 
 namespace dictionary
 {
-    [Activity(Label = "dicListActivity", Icon = "@drawable/icon", Theme = "@style/MyTheme", ScreenOrientation = ScreenOrientation.Portrait)]
+    [Activity(Label = "dicListActivity", Icon = "@drawable/icon", Theme = "@android:style/Theme.Black.NoTitleBar", ScreenOrientation = ScreenOrientation.Portrait)]
 
     public class dicListActivity : Activity
     {

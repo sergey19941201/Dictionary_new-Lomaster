@@ -6,7 +6,7 @@
     <activity android:icon="@drawable/icon" android:label="archivActivity" android:screenOrientation="portrait" android:theme="@android:style/Theme.Black.NoTitleBar" android:name="md55ae8e863b0db72f8b0b19d5955d1830f.archivActivity" />
     <activity android:icon="@drawable/icon" android:label="ARCHIVEActivity" android:screenOrientation="portrait" android:theme="@android:style/Theme.Black.NoTitleBar" android:name="md55ae8e863b0db72f8b0b19d5955d1830f.ARCHIVEActivity" />
     <activity android:icon="@drawable/icon" android:label="archive_words_Activity" android:screenOrientation="portrait" android:theme="@android:style/Theme.Black.NoTitleBar" android:name="md55ae8e863b0db72f8b0b19d5955d1830f.archive_words_Activity" />
-    <activity android:icon="@drawable/icon" android:label="dicListActivity" android:screenOrientation="portrait" android:theme="@style/MyTheme" android:name="md55ae8e863b0db72f8b0b19d5955d1830f.dicListActivity" />
+    <activity android:icon="@drawable/icon" android:label="dicListActivity" android:screenOrientation="portrait" android:theme="@android:style/Theme.Black.NoTitleBar" android:name="md55ae8e863b0db72f8b0b19d5955d1830f.dicListActivity" />
     <activity android:icon="@drawable/icon" android:label="irrVerbsArchiveActivity" android:screenOrientation="portrait" android:theme="@style/MyTheme" android:name="md55ae8e863b0db72f8b0b19d5955d1830f.irrVerbsArchiveActivity" />
     <activity android:label="Словарь" android:noHistory="true" android:screenOrientation="portrait" android:theme="@android:style/Theme.Black.NoTitleBar" android:name="md55ae8e863b0db72f8b0b19d5955d1830f.MainActivity">
       <intent-filter>

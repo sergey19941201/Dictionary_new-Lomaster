@@ -29,7 +29,7 @@ namespace dictionary.mCode
             View rootView = inflater.Inflate(Resource.Layout.SearchFragment, container, false);
 
             //Заглавие фрагмента:
-            this.Dialog.SetTitle("Поиск папок");
+            //this.Dialog.SetTitle("Поиск папок");
 
             otmenaBtn = rootView.FindViewById<Button>(Resource.Id.otmenaBtn);
             otmenaBtn.Click += delegate

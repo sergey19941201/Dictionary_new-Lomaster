@@ -2074,17 +2074,17 @@ namespace dictionary
 			// aapt resource value: 0x7f060079
 			public const int IrregularVerbsBN = 2131099769;
 			
-			// aapt resource value: 0x7f0600b8
-			public const int SearchBtn = 2131099832;
+			// aapt resource value: 0x7f0600b6
+			public const int SearchBtn = 2131099830;
 			
-			// aapt resource value: 0x7f0600b7
-			public const int SearchEditText = 2131099831;
+			// aapt resource value: 0x7f0600b5
+			public const int SearchEditText = 2131099829;
 			
 			// aapt resource value: 0x7f060091
 			public const int TextView = 2131099793;
 			
-			// aapt resource value: 0x7f0600a2
-			public const int action0 = 2131099810;
+			// aapt resource value: 0x7f0600a0
+			public const int action0 = 2131099808;
 			
 			// aapt resource value: 0x7f06005e
 			public const int action_bar = 2131099742;
@@ -2110,8 +2110,8 @@ namespace dictionary
 			// aapt resource value: 0x7f06005f
 			public const int action_context_bar = 2131099743;
 			
-			// aapt resource value: 0x7f0600a6
-			public const int action_divider = 2131099814;
+			// aapt resource value: 0x7f0600a4
+			public const int action_divider = 2131099812;
 			
 			// aapt resource value: 0x7f060003
 			public const int action_menu_divider = 2131099651;
@@ -2146,8 +2146,8 @@ namespace dictionary
 			// aapt resource value: 0x7f06001f
 			public const int always = 2131099679;
 			
-			// aapt resource value: 0x7f060099
-			public const int arhiv = 2131099801;
+			// aapt resource value: 0x7f060097
+			public const int arhiv = 2131099799;
 			
 			// aapt resource value: 0x7f06002b
 			public const int auto = 2131099691;
@@ -2164,8 +2164,8 @@ namespace dictionary
 			// aapt resource value: 0x7f060047
 			public const int buttonPanel = 2131099719;
 			
-			// aapt resource value: 0x7f0600a3
-			public const int cancel_action = 2131099811;
+			// aapt resource value: 0x7f0600a1
+			public const int cancel_action = 2131099809;
 			
 			// aapt resource value: 0x7f06002c
 			public const int center = 2131099692;
@@ -2179,8 +2179,8 @@ namespace dictionary
 			// aapt resource value: 0x7f060055
 			public const int checkbox = 2131099733;
 			
-			// aapt resource value: 0x7f0600a9
-			public const int chronometer = 2131099817;
+			// aapt resource value: 0x7f0600a7
+			public const int chronometer = 2131099815;
 			
 			// aapt resource value: 0x7f060035
 			public const int clip_horizontal = 2131099701;
@@ -2233,8 +2233,8 @@ namespace dictionary
 			// aapt resource value: 0x7f06008c
 			public const int dobavitCateg = 2131099788;
 			
-			// aapt resource value: 0x7f0600b5
-			public const int dobavitKartu = 2131099829;
+			// aapt resource value: 0x7f0600b3
+			public const int dobavitKartu = 2131099827;
 			
 			// aapt resource value: 0x7f06008e
 			public const int dobavitVArchivBn = 2131099790;
@@ -2248,8 +2248,8 @@ namespace dictionary
 			// aapt resource value: 0x7f06001d
 			public const int end = 2131099677;
 			
-			// aapt resource value: 0x7f0600ae
-			public const int end_padder = 2131099822;
+			// aapt resource value: 0x7f0600ac
+			public const int end_padder = 2131099820;
 			
 			// aapt resource value: 0x7f060074
 			public const int eng1_ET = 2131099764;
@@ -2260,8 +2260,8 @@ namespace dictionary
 			// aapt resource value: 0x7f060076
 			public const int eng3_ET = 2131099766;
 			
-			// aapt resource value: 0x7f06006e
-			public const int engEditText = 2131099758;
+			// aapt resource value: 0x7f06006f
+			public const int engEditText = 2131099759;
 			
 			// aapt resource value: 0x7f060026
 			public const int enterAlways = 2131099686;
@@ -2290,14 +2290,14 @@ namespace dictionary
 			// aapt resource value: 0x7f06003b
 			public const int @fixed = 2131099707;
 			
+			// aapt resource value: 0x7f06009a
+			public const int form1Text = 2131099802;
+			
+			// aapt resource value: 0x7f06009b
+			public const int form2Text = 2131099803;
+			
 			// aapt resource value: 0x7f06009c
-			public const int form1Text = 2131099804;
-			
-			// aapt resource value: 0x7f06009d
-			public const int form2Text = 2131099805;
-			
-			// aapt resource value: 0x7f06009e
-			public const int form3Text = 2131099806;
+			public const int form3Text = 2131099804;
 			
 			// aapt resource value: 0x7f060005
 			public const int home = 2131099653;
@@ -2314,11 +2314,11 @@ namespace dictionary
 			// aapt resource value: 0x7f060042
 			public const int image = 2131099714;
 			
-			// aapt resource value: 0x7f0600ad
-			public const int info = 2131099821;
+			// aapt resource value: 0x7f0600ab
+			public const int info = 2131099819;
 			
-			// aapt resource value: 0x7f06009b
-			public const int item_id = 2131099803;
+			// aapt resource value: 0x7f060099
+			public const int item_id = 2131099801;
 			
 			// aapt resource value: 0x7f060000
 			public const int item_touch_helper_previous_elevation = 2131099648;
@@ -2326,23 +2326,23 @@ namespace dictionary
 			// aapt resource value: 0x7f060030
 			public const int left = 2131099696;
 			
-			// aapt resource value: 0x7f0600a7
-			public const int line1 = 2131099815;
+			// aapt resource value: 0x7f0600a5
+			public const int line1 = 2131099813;
 			
-			// aapt resource value: 0x7f0600ab
-			public const int line3 = 2131099819;
+			// aapt resource value: 0x7f0600a9
+			public const int line3 = 2131099817;
 			
 			// aapt resource value: 0x7f060071
 			public const int linearLayout1 = 2131099761;
 			
-			// aapt resource value: 0x7f060077
-			public const int linearLayout2 = 2131099767;
+			// aapt resource value: 0x7f06006e
+			public const int linearLayout2 = 2131099758;
 			
-			// aapt resource value: 0x7f060096
-			public const int linearLayout3 = 2131099798;
+			// aapt resource value: 0x7f060094
+			public const int linearLayout3 = 2131099796;
 			
-			// aapt resource value: 0x7f06009a
-			public const int linearLayout4 = 2131099802;
+			// aapt resource value: 0x7f060098
+			public const int linearLayout4 = 2131099800;
 			
 			// aapt resource value: 0x7f060086
 			public const int lineat1 = 2131099782;
@@ -2353,8 +2353,8 @@ namespace dictionary
 			// aapt resource value: 0x7f060044
 			public const int list_item = 2131099716;
 			
-			// aapt resource value: 0x7f0600a5
-			public const int media_actions = 2131099813;
+			// aapt resource value: 0x7f0600a3
+			public const int media_actions = 2131099811;
 			
 			// aapt resource value: 0x7f060087
 			public const int menuButton = 2131099783;
@@ -2365,23 +2365,17 @@ namespace dictionary
 			// aapt resource value: 0x7f06003a
 			public const int mini = 2131099706;
 			
-			// aapt resource value: 0x7f060094
-			public const int movieImage = 2131099796;
-			
 			// aapt resource value: 0x7f060016
 			public const int multiply = 2131099670;
 			
 			// aapt resource value: 0x7f06007b
 			public const int myListView = 2131099771;
 			
-			// aapt resource value: 0x7f060095
-			public const int nameTxt = 2131099797;
-			
 			// aapt resource value: 0x7f060080
 			public const int navigation_header_container = 2131099776;
 			
-			// aapt resource value: 0x7f060098
-			public const int nepravelnieglagoli = 2131099800;
+			// aapt resource value: 0x7f060096
+			public const int nepravelnieglagoli = 2131099798;
 			
 			// aapt resource value: 0x7f060022
 			public const int never = 2131099682;
@@ -2392,8 +2386,8 @@ namespace dictionary
 			// aapt resource value: 0x7f06000c
 			public const int normal = 2131099660;
 			
-			// aapt resource value: 0x7f0600b9
-			public const int otmenaBtn = 2131099833;
+			// aapt resource value: 0x7f0600b7
+			public const int otmenaBtn = 2131099831;
 			
 			// aapt resource value: 0x7f060092
 			public const int pager = 2131099794;
@@ -2407,17 +2401,17 @@ namespace dictionary
 			// aapt resource value: 0x7f060049
 			public const int parentPanel = 2131099721;
 			
-			// aapt resource value: 0x7f0600b6
-			public const int pereimenovat = 2131099830;
-			
-			// aapt resource value: 0x7f0600b0
-			public const int pereimenovatCateg = 2131099824;
-			
-			// aapt resource value: 0x7f0600af
-			public const int pereimenovatEditText = 2131099823;
-			
 			// aapt resource value: 0x7f0600b4
-			public const int peremeshat = 2131099828;
+			public const int pereimenovat = 2131099828;
+			
+			// aapt resource value: 0x7f0600ae
+			public const int pereimenovatCateg = 2131099822;
+			
+			// aapt resource value: 0x7f0600ad
+			public const int pereimenovatEditText = 2131099821;
+			
+			// aapt resource value: 0x7f0600b2
+			public const int peremeshat = 2131099826;
 			
 			// aapt resource value: 0x7f06008f
 			public const int perevernBn = 2131099791;
@@ -2425,8 +2419,8 @@ namespace dictionary
 			// aapt resource value: 0x7f060034
 			public const int pin = 2131099700;
 			
-			// aapt resource value: 0x7f0600a1
-			public const int polzovNeprGl_BN = 2131099809;
+			// aapt resource value: 0x7f06009f
+			public const int polzovNeprGl_BN = 2131099807;
 			
 			// aapt resource value: 0x7f060006
 			public const int progress_circular = 2131099654;
@@ -2509,8 +2503,8 @@ namespace dictionary
 			// aapt resource value: 0x7f060013
 			public const int showTitle = 2131099667;
 			
-			// aapt resource value: 0x7f060097
-			public const int slovari = 2131099799;
+			// aapt resource value: 0x7f060095
+			public const int slovari = 2131099797;
 			
 			// aapt resource value: 0x7f06007f
 			public const int snackbar_action = 2131099775;
@@ -2539,8 +2533,8 @@ namespace dictionary
 			// aapt resource value: 0x7f060032
 			public const int start = 2131099698;
 			
-			// aapt resource value: 0x7f0600a4
-			public const int status_bar_latest_event_content = 2131099812;
+			// aapt resource value: 0x7f0600a2
+			public const int status_bar_latest_event_content = 2131099810;
 			
 			// aapt resource value: 0x7f060058
 			public const int submenuarrow = 2131099736;
@@ -2548,32 +2542,32 @@ namespace dictionary
 			// aapt resource value: 0x7f060069
 			public const int submit_area = 2131099753;
 			
-			// aapt resource value: 0x7f0600a0
-			public const int systemnieNeprGl_BN = 2131099808;
+			// aapt resource value: 0x7f06009e
+			public const int systemnieNeprGl_BN = 2131099806;
 			
 			// aapt resource value: 0x7f06000d
 			public const int tabMode = 2131099661;
 			
-			// aapt resource value: 0x7f0600ac
-			public const int text = 2131099820;
-			
 			// aapt resource value: 0x7f0600aa
-			public const int text2 = 2131099818;
+			public const int text = 2131099818;
+			
+			// aapt resource value: 0x7f0600a8
+			public const int text2 = 2131099816;
 			
 			// aapt resource value: 0x7f060050
 			public const int textSpacerNoButtons = 2131099728;
 			
-			// aapt resource value: 0x7f06006d
-			public const int textView1 = 2131099757;
+			// aapt resource value: 0x7f060077
+			public const int textView1 = 2131099767;
 			
-			// aapt resource value: 0x7f06006f
-			public const int textView2 = 2131099759;
+			// aapt resource value: 0x7f06006d
+			public const int textView4 = 2131099757;
 			
 			// aapt resource value: 0x7f060085
 			public const int text_input_password_toggle = 2131099781;
 			
-			// aapt resource value: 0x7f0600a8
-			public const int time = 2131099816;
+			// aapt resource value: 0x7f0600a6
+			public const int time = 2131099814;
 			
 			// aapt resource value: 0x7f060046
 			public const int title = 2131099718;
@@ -2590,17 +2584,17 @@ namespace dictionary
 			// aapt resource value: 0x7f06007c
 			public const int touch_outside = 2131099772;
 			
-			// aapt resource value: 0x7f06009f
-			public const int translTV = 2131099807;
+			// aapt resource value: 0x7f06009d
+			public const int translTV = 2131099805;
 			
 			// aapt resource value: 0x7f06007a
 			public const int txtName = 2131099770;
 			
-			// aapt resource value: 0x7f0600b3
-			public const int uchit = 2131099827;
-			
 			// aapt resource value: 0x7f0600b1
-			public const int udalit = 2131099825;
+			public const int uchit = 2131099825;
+			
+			// aapt resource value: 0x7f0600af
+			public const int udalit = 2131099823;
 			
 			// aapt resource value: 0x7f060009
 			public const int up = 2131099657;
@@ -2611,8 +2605,8 @@ namespace dictionary
 			// aapt resource value: 0x7f06000a
 			public const int view_offset_helper = 2131099658;
 			
-			// aapt resource value: 0x7f0600b2
-			public const int vosstanovit = 2131099826;
+			// aapt resource value: 0x7f0600b0
+			public const int vosstanovit = 2131099824;
 			
 			// aapt resource value: 0x7f060023
 			public const int withText = 2131099683;
@@ -2845,76 +2839,76 @@ namespace dictionary
 			public const int irrVerbsArchive = 2130903093;
 			
 			// aapt resource value: 0x7f030036
-			public const int korzina = 2130903094;
+			public const int listview_row = 2130903094;
 			
 			// aapt resource value: 0x7f030037
-			public const int listview_row = 2130903095;
+			public const int Main = 2130903095;
 			
 			// aapt resource value: 0x7f030038
-			public const int Main = 2130903096;
+			public const int neprFragment = 2130903096;
 			
 			// aapt resource value: 0x7f030039
-			public const int neprFragment = 2130903097;
+			public const int neprFragmentRus = 2130903097;
 			
 			// aapt resource value: 0x7f03003a
-			public const int neprFragmentRus = 2130903098;
+			public const int neprFragmentRusSystem = 2130903098;
 			
 			// aapt resource value: 0x7f03003b
-			public const int neprFragmentRusSystem = 2130903099;
+			public const int neprFragmentSystem = 2130903099;
 			
 			// aapt resource value: 0x7f03003c
-			public const int neprFragmentSystem = 2130903100;
+			public const int neprGlagoli = 2130903100;
 			
 			// aapt resource value: 0x7f03003d
-			public const int neprGlagoli = 2130903101;
+			public const int neprGlagoliRus = 2130903101;
 			
 			// aapt resource value: 0x7f03003e
-			public const int neprGlagoliRus = 2130903102;
+			public const int neprGlagoliRusSystem = 2130903102;
 			
 			// aapt resource value: 0x7f03003f
-			public const int neprGlagoliRusSystem = 2130903103;
+			public const int neprGlagoliSystem = 2130903103;
 			
 			// aapt resource value: 0x7f030040
-			public const int neprGlagoliSystem = 2130903104;
+			public const int NG = 2130903104;
 			
 			// aapt resource value: 0x7f030041
-			public const int NG = 2130903105;
+			public const int notification_media_action = 2130903105;
 			
 			// aapt resource value: 0x7f030042
-			public const int notification_media_action = 2130903106;
+			public const int notification_media_cancel_action = 2130903106;
 			
 			// aapt resource value: 0x7f030043
-			public const int notification_media_cancel_action = 2130903107;
+			public const int notification_template_big_media = 2130903107;
 			
 			// aapt resource value: 0x7f030044
-			public const int notification_template_big_media = 2130903108;
+			public const int notification_template_big_media_narrow = 2130903108;
 			
 			// aapt resource value: 0x7f030045
-			public const int notification_template_big_media_narrow = 2130903109;
+			public const int notification_template_lines = 2130903109;
 			
 			// aapt resource value: 0x7f030046
-			public const int notification_template_lines = 2130903110;
+			public const int notification_template_media = 2130903110;
 			
 			// aapt resource value: 0x7f030047
-			public const int notification_template_media = 2130903111;
+			public const int notification_template_part_chronometer = 2130903111;
 			
 			// aapt resource value: 0x7f030048
-			public const int notification_template_part_chronometer = 2130903112;
+			public const int notification_template_part_time = 2130903112;
 			
 			// aapt resource value: 0x7f030049
-			public const int notification_template_part_time = 2130903113;
+			public const int pereimenCategFragment = 2130903113;
 			
 			// aapt resource value: 0x7f03004a
-			public const int pereimenCategFragment = 2130903114;
+			public const int PopupMenuArchive = 2130903114;
 			
 			// aapt resource value: 0x7f03004b
-			public const int PopupMenuArchive = 2130903115;
+			public const int popupMenuForCategories = 2130903115;
 			
 			// aapt resource value: 0x7f03004c
-			public const int popupMenuForCategories = 2130903116;
+			public const int popupMenuForNGlagoli = 2130903116;
 			
 			// aapt resource value: 0x7f03004d
-			public const int popupMenuForNGlagoli = 2130903117;
+			public const int popupMenuForNGlagoliSystem = 2130903117;
 			
 			// aapt resource value: 0x7f03004e
 			public const int SearchFragment = 2130903118;

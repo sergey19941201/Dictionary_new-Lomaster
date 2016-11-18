@@ -29,7 +29,7 @@ namespace dictionary.mCode
             View rootView = inflater.Inflate(Resource.Layout.FragLayout, container, false);
 
             //Заглавие фрагмента:
-            this.Dialog.SetTitle("Введите название категории");
+            //this.Dialog.SetTitle("Введите название категории");
             //Кнопки Добавить и Закрыть фрагмент
             dobavitCateg = rootView.FindViewById<Button>(Resource.Id.dobavitCateg);
             zakritFragment = rootView.FindViewById<Button>(Resource.Id.zakritFragment);

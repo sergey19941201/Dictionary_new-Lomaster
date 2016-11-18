@@ -192,9 +192,6 @@
     <AndroidResource Include="Resources\layout\arhiv.axml">
       <SubType>Designer</SubType>
     </AndroidResource>
-    <AndroidResource Include="Resources\layout\korzina.axml">
-      <SubType>Designer</SubType>
-    </AndroidResource>
     <AndroidResource Include="Resources\layout\listview_row.axml">
       <SubType>Designer</SubType>
     </AndroidResource>
@@ -375,6 +372,11 @@
   </ItemGroup>
   <ItemGroup>
     <AndroidResource Include="Resources\layout\popupMenuForNGlagoli.xml">
+      <SubType>Designer</SubType>
+    </AndroidResource>
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\layout\popupMenuForNGlagoliSystem.xml">
       <SubType>Designer</SubType>
     </AndroidResource>
   </ItemGroup>
