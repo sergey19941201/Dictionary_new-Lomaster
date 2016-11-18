@@ -56,6 +56,8 @@ namespace dictionary.mCode
                 string result = dbr.InsertRecord((editText.Text).ToLower());
                 Toast.MakeText(this.Activity, "Папка добавлена", ToastLength.Short).Show();
 
+                SearchFragmentShow.textToSearch = null;
+
                 //Запустить dicActivity:
                 this.Activity.StartActivity(new Intent(this.Activity, typeof(dicListActivity)));
                 //Закрыть фрагмент:

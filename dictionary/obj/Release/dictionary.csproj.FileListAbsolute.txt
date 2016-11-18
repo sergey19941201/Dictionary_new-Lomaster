@@ -262,5 +262,6 @@ C:\Projects\Dictionary_new-Lomaster\dictionary\obj\Release\android\assets\mscorl
 C:\Projects\Dictionary_new-Lomaster\dictionary\obj\Release\android\assets\System.Core.dll.mdb
 C:\Projects\Dictionary_new-Lomaster\dictionary\obj\Release\android\assets\System.dll.mdb
 C:\Projects\Dictionary_new-Lomaster\dictionary\obj\Release\android\assets\System.Runtime.Serialization.dll.mdb
+C:\Projects\Dictionary_new-Lomaster\dictionary\obj\Release\dictionary.csprojResolveAssemblyReference.cache
 C:\Projects\Dictionary_new-Lomaster\dictionary\obj\Release\dictionary.dll.mdb
 C:\Projects\Dictionary_new-Lomaster\dictionary\bin\Release\dictionary.dll.mdb
