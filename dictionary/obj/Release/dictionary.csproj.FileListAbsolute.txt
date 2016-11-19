@@ -239,6 +239,7 @@ C:\Projects\Dictionary_new-Lomaster\dictionary\obj\Release\res\layout\popupmenuf
 C:\Projects\Dictionary_new-Lomaster\dictionary\obj\Release\R.cs.flag
 C:\Projects\Dictionary_new-Lomaster\dictionary\obj\Release\uploadflags.txt
 C:\Projects\Dictionary_new-Lomaster\dictionary\bin\Release\dictionary.dll.mdb
+C:\Projects\Dictionary_new-Lomaster\dictionary\obj\Release\dictionary.csprojResolveAssemblyReference.cache
 C:\Projects\Dictionary_new-Lomaster\dictionary\bin\Release\Java.Interop.dll.mdb
 C:\Projects\Dictionary_new-Lomaster\dictionary\bin\Release\Mono.Android.dll.mdb
 C:\Projects\Dictionary_new-Lomaster\dictionary\bin\Release\Mono.Data.Sqlite.dll.mdb
@@ -262,6 +263,5 @@ C:\Projects\Dictionary_new-Lomaster\dictionary\obj\Release\android\assets\mscorl
 C:\Projects\Dictionary_new-Lomaster\dictionary\obj\Release\android\assets\System.Core.dll.mdb
 C:\Projects\Dictionary_new-Lomaster\dictionary\obj\Release\android\assets\System.dll.mdb
 C:\Projects\Dictionary_new-Lomaster\dictionary\obj\Release\android\assets\System.Runtime.Serialization.dll.mdb
-C:\Projects\Dictionary_new-Lomaster\dictionary\obj\Release\dictionary.csprojResolveAssemblyReference.cache
 C:\Projects\Dictionary_new-Lomaster\dictionary\obj\Release\dictionary.dll.mdb
 C:\Projects\Dictionary_new-Lomaster\dictionary\bin\Release\dictionary.dll.mdb

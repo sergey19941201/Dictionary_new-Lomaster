@@ -35,10 +35,11 @@
             android:layout_height="70dp"
             android:id="@+id/words_archiveBN"
             android:drawableLeft="@drawable/blue_folder"
-            android:backgroundTint="#00ffffff"
+            android:backgroundTint="#00000000"
             android:textColor="#ffffff"
             android:textSize="20dp"
-            android:gravity="fill_vertical" />
+            android:gravity="fill_vertical"
+            android:background="#000000FF" />
         <Button
             android:text=" Неправильные глаголы"
             android:layout_width="match_parent"
@@ -46,8 +47,9 @@
             android:id="@+id/IrregularVerbsBN"
             android:drawableLeft="@drawable/blue_folder"
             android:gravity="fill_vertical"
-            android:backgroundTint="#00ffffff"
+            android:backgroundTint="#00000000"
             android:textColor="#ffffff"
-            android:textSize="20dp" />
+            android:textSize="20dp"
+            android:background="#000000FF" />
     </LinearLayout>
 </LinearLayout>

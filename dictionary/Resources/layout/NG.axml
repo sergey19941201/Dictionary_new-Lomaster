@@ -12,18 +12,20 @@
         android:layout_height="70dp"
         android:id="@+id/systemnieNeprGl_BN"
         android:drawableLeft="@drawable/blue_folder"
-        android:backgroundTint="#00ffffff"
+        android:backgroundTint="#00000000"
         android:textColor="#ffffff"
         android:textSize="20dp"
-        android:gravity="fill_vertical" />
+        android:gravity="fill_vertical"
+        android:background="#004B0082" />
     <Button
         android:text=" Мои неправильные глаголы"
         android:layout_width="match_parent"
         android:layout_height="70dp"
         android:id="@+id/polzovNeprGl_BN"
         android:drawableLeft="@drawable/blue_folder"
-        android:backgroundTint="#00ffffff"
+        android:backgroundTint="#00000000"
         android:textColor="#ffffff"
         android:textSize="20dp"
-        android:gravity="fill_vertical" />
+        android:gravity="fill_vertical"
+        android:background="#004B0082" />
 </LinearLayout>
