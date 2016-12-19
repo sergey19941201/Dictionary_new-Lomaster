@@ -112,7 +112,7 @@ namespace dictionary.mCode
             }
             else
             {
-                Toast.MakeText(this.Activity, "Такое имя уже есть", ToastLength.Short).Show();
+                Toast.MakeText(this.Activity, "Такое имя или перевод уже есть", ToastLength.Short).Show();
             }
         }
     }

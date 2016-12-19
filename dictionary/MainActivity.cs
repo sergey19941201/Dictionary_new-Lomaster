@@ -82,7 +82,7 @@ namespace dictionary
             AllDataListIrrVerbsSystem.Add(new FillingListIrrVerbsSystem { sysFORM1 = "hurt", sysFORM2 = "hurt", sysFORM3 = "hurt", sysTRANSL = "ранить" });
             AllDataListIrrVerbsSystem.Add(new FillingListIrrVerbsSystem { sysFORM1 = "keep", sysFORM2 = "kept", sysFORM3 = "kept", sysTRANSL = "удерживать" });
             AllDataListIrrVerbsSystem.Add(new FillingListIrrVerbsSystem { sysFORM1 = "know", sysFORM2 = "knew", sysFORM3 = "known", sysTRANSL = "знать" });
-            AllDataListIrrVerbsSystem.Add(new FillingListIrrVerbsSystem { sysFORM1 = "learn", sysFORM2 = "learnt", sysFORM3 = "learnt", sysTRANSL = "учить" });
+            AllDataListIrrVerbsSystem.Add(new FillingListIrrVerbsSystem { sysFORM1 = "learn", sysFORM2 = "learnt", sysFORM3 = "learnt", sysTRANSL = "учить что-нибудь" });
             AllDataListIrrVerbsSystem.Add(new FillingListIrrVerbsSystem { sysFORM1 = "leave", sysFORM2 = "left", sysFORM3 = "left", sysTRANSL = "покидать" });
             AllDataListIrrVerbsSystem.Add(new FillingListIrrVerbsSystem { sysFORM1 = "let", sysFORM2 = "let", sysFORM3 = "let", sysTRANSL = "позволять" });
             AllDataListIrrVerbsSystem.Add(new FillingListIrrVerbsSystem { sysFORM1 = "light", sysFORM2 = "lit", sysFORM3 = "lit", sysTRANSL = "освещать" });
@@ -115,8 +115,8 @@ namespace dictionary
             AllDataListIrrVerbsSystem.Add(new FillingListIrrVerbsSystem { sysFORM1 = "steal", sysFORM2 = "stole", sysFORM3 = "stolen", sysTRANSL = "украсть" });
             AllDataListIrrVerbsSystem.Add(new FillingListIrrVerbsSystem { sysFORM1 = "swim", sysFORM2 = "swam", sysFORM3 = "swum", sysTRANSL = "плавать" });
             AllDataListIrrVerbsSystem.Add(new FillingListIrrVerbsSystem { sysFORM1 = "take", sysFORM2 = "took", sysFORM3 = "taken", sysTRANSL = "брать" });
-            AllDataListIrrVerbsSystem.Add(new FillingListIrrVerbsSystem { sysFORM1 = "teach", sysFORM2 = "taught", sysFORM3 = "taught", sysTRANSL = "учить" });
-            AllDataListIrrVerbsSystem.Add(new FillingListIrrVerbsSystem { sysFORM1 = "tell", sysFORM2 = "told", sysFORM3 = "told", sysTRANSL = "говорить" });
+            AllDataListIrrVerbsSystem.Add(new FillingListIrrVerbsSystem { sysFORM1 = "teach", sysFORM2 = "taught", sysFORM3 = "taught", sysTRANSL = "учить кого-нибудь" });
+            AllDataListIrrVerbsSystem.Add(new FillingListIrrVerbsSystem { sysFORM1 = "tell", sysFORM2 = "told", sysFORM3 = "told", sysTRANSL = "рассказать" });
             AllDataListIrrVerbsSystem.Add(new FillingListIrrVerbsSystem { sysFORM1 = "think", sysFORM2 = "thought", sysFORM3 = "thought", sysTRANSL = "думать" });
             AllDataListIrrVerbsSystem.Add(new FillingListIrrVerbsSystem { sysFORM1 = "throw", sysFORM2 = "threw", sysFORM3 = "thrown", sysTRANSL = "бросать" });
             AllDataListIrrVerbsSystem.Add(new FillingListIrrVerbsSystem { sysFORM1 = "understand", sysFORM2 = "understood", sysFORM3 = "understood", sysTRANSL = "понимать" });
